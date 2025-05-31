@@ -1,0 +1,7 @@
+---
+base_dir: /home/jeremy/Dropbox/HHP
+project: hhp
+context: book
+index_file: content_index.md
+notes_file: story_notes.ctd
+
