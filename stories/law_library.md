@@ -1,19 +1,10 @@
 ---
+create: 1 Jun 16:12
+model: gpt-4o-2024-08-06
 note_id: 255
-status: 📝
+source: stories/law_library.md
+status: 🖊️
 title: Law Library
 ---
 
-1. The HHP law library was the envy of law firms in Jakarta
-
-2. The strict librarian was the most-feared staff member for her strict loan schedule.
-
-3. The Garuda memo was  a compilation of clippings to on-line Daily Eleven and Regulation Update). 
-
-4. has evolved (from brick and mortar library to bits and bytes information services. 
-
-5. In the 2012 the firm migrated to online legal resources 
-
-6. The existing library was donated to university law faculties.  
-
-   
+In the high-stakes world of corporate law firms in Jakarta, the HHP law library held a reputation as the crown jewel of legal resources, envied by many for its comprehensive collection. At its heart, the most-feared member of staff, the strict librarian, enforced a stringent loan schedule, ensuring the library's cherished resources remained meticulously organized. Among the treasures of the library was the renowned Garuda memo, a thorough compilation merging clippings from the Daily Eleven and Regulation Update, which provided invaluable insights for legal practitioners. However, recognising the onset of digital transformation, the firm pivoted from its traditional brick-and-mortar setup toward a cutting-edge, byte-focused information service, making a decisive move in 2012 to embrace online legal resources. This strategic shift resulted in the donation of the existing physical library, a generous contribution to university law faculties, enabling the next generation of lawyers to tap into the extraordinary wealth of knowledge once housed within HHP.

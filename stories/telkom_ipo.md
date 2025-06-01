@@ -1,11 +1,10 @@
 ---
+create: 1 Jun 16:12
+model: gpt-4o-2024-08-06
 note_id: 188
-status: 📝
+source: stories/telkom_ipo.md
+status: 🖊️
 title: Telcom IPO
 ---
 
-1. Give the background of the 1994 Telkom IPO 
-2. Mention the Telkom has the most extensive infrastructure of any state-owned enterprise.
-3. Mention it was, like Indosat, a dual listing.
-4. Mention it was the largest to date in JSX
-5. Describe the role of HHP the listing process
+The 1994 Initial Public Offering (IPO) of Telkom marked a significant milestone in Indonesia's economic landscape, reflecting the country's burgeoning push towards modernizing its telecommunications sector. As the state-owned enterprise with the most extensive infrastructure, Telkom's entrance into the public market was a landmark event, highlighting its crucial role in national development. Like its peer Indosat, Telkom pursued a dual listing, making its shares available on both domestic and international markets. This IPO became the largest of its kind on the Jakarta Stock Exchange (JSX) to that date, signaling strong investor confidence and interest. In this monumental task, the prestigious corporate law firm HHP played a pivotal role, meticulously guiding Telkom through the intricate legal and regulatory processes required for the listing, thereby ensuring a successful and smooth transition into the public domain.

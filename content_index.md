@@ -16,15 +16,17 @@ The firm  became an  member of the [Baker McKenzie global alliance](stories/alli
 
 # 3. Growing an Institution 
 
-The [Telkom IPO](stories/telkom_ipo.md) shot HHP to the forefront of the Indonesian corporate legal community. The firm became the go-to experts in  [capital markets](stories/capital_market_consultants.md). The firm also discretely [shared expertise](stories/bapepam.md) with government officials struggling to regulate the "Wild East" financial markets in the booming 90s.  HHP provided the [Indonesian model for institutions](stories/novel_institutionalzation.md). The firm pioneered a [community-centered approach](stories/community_centered_approach.md) to leadership.   The formation of [practice groups](stories/practice_groups.md) ensured [new recruits](stories/recruiting_associates.md) acquired a broad knowledge of the legal landscape. Encouraging [internal collaboration](stories/internal_collaboration.md) facilitated cross-group expertise sharing. 
+The [Telkom IPO](stories/telkom_ipo.md) made HHP he goto experts in  [capital markets](stories/capital_market_consultants.md). The firm  discretely [shared expertise](stories/bapepam.md) with government officials.  HHP provided the [Indonesian model for institutions](stories/novel_institutionalzation.md). HHP pioneered a [community-centered approach](stories/community_centered_approach.md) to leadership.  The formation of [practice groups](stories/practice_groups.md) ensured [new recruits](stories/recruiting_associates.md) acquired a broad knowledge of the legal landscape. Encouraging [internal collaboration](stories/internal_collaboration.md) facilitated cross-group expertise sharing. 
 
 ⧉ The [law library](stories/law_library.md) became the envy of other firms. 
 
+⧉ [Group Therapy]()
+
 # 4. Navigating the Asian Financial Crisis 
 
-Physical violence at a bankruptcy negotiation with a  [Jakarta taxi company](stories/steady_safe_taxi.md) showed the devastating effects of the [Asian Financial Crisis](stories/asian_financial_crisis.md).  [Strategic adaption](stories/adaptive_strategies.md) allowed HHP to [thrive during the crisis](stories/kaya_karena_krismon.md)  and artfully help companies  [restructure crushing debts](). HHP advised  [IBRA](stories/advising_ibra.md)  on how to [restore confidence]() in the Indonesian banking sector.  As the economy recovered HHP moved into the  [Stock Exchange Building](stories/jakarta_stock_exchange.md) .
+Physical violence at a bankruptcy negotiation with a  [Jakarta taxi company](stories/steady_safe_taxi.md) showed the devastating effects of the [Asian Financial Crisis](stories/asian_financial_crisis.md).  [Strategic adaption](stories/adaptive_strategies.md) allowed HHP to [thrive during the crisis](stories/kaya_karena_krismon.md)  and artfully help companies  [restructure crushing debts](). HHP advised  [IBRA](stories/advising_ibra.md)  on how to [restore confidence]() in the Indonesian banking sector.  
 
-🖼️ [Jakarta Stock Exchange]()
+🖼️ As the economy recovered HHP moved into the  [Stock Exchange Building](stories/jakarta_stock_exchange.md) .
 
 # 5. Post-Crisis Restructuring
 
