@@ -1,13 +1,10 @@
 ---
+create: 1 Jun 09:52
+model: gpt-4o-mini-2024-07-18
 note_id: 229
-status: 📝
+source: stories/alliance_with_baker_mckenzie.md
+status: 🖊️
 title: Alliance with Baker McKenzie
 ---
 
-1. In the 1990s the dream of Indonesian companies and pop stars was “Going International”
-
-1. HHP was the first local law firm to “Go International” by joining the network of global law firms.
-
-1. The coordinating firm was Baker McKenzie, noted for expertise in cross-border legal agreements.
-
-1. This network gave HHP access to knowledge and experience of numerous law firms in both developed and developing economies.
+In the 1990s, as the spirit of “Go International” captured the imagination of Indonesian businesses and artists alike, HHP stood at the forefront of this outward-looking wave. It became the first Indonesian law firm to join a global legal network through a strategic collaboration with Baker McKenzie—an internationally respected firm known for its cross-border legal expertise. This affiliation marked a pivotal step in HHP’s growth, enhancing its ability to serve clients with global ambitions while maintaining its identity as an independent Indonesian firm. Through the network, HHP gained access to shared knowledge and best practices from member firms around the world, including insights from both advanced and emerging markets.

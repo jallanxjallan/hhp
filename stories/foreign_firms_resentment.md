@@ -1,11 +1,10 @@
 ---
+create: 1 Jun 09:52
+model: gpt-4o-mini-2024-07-18
 note_id: 235
-status: 📝
+source: stories/foreign_firms_resentment.md
+status: 🖊️
 title: Foreign Firms Resentment
 ---
 
-1. Direct foreign investment grew rapidly in the 1990s.
-1. New regulations enabled Indonesian companies to seek offshore loans denominated in foreign currencies, usuall USD
-1. Growing internationalism in business sector attracted foreign lawyers who joined local firms as "consultants"
-1. Influx of foreign legal consultants created discontent among local firms.
-1. HHP was singled out become of strong alliance with a network of global firms. 
+In the 1990s, Indonesia experienced a surge in direct foreign investment, a trend largely facilitated by new regulations that allowed local companies to pursue offshore loans in foreign currencies, particularly in US dollars. This growing internationalism within the business sector enticed foreign lawyers to join local firms in consultancy roles, leading to a significant influx of international legal talent. However, this shift sparked discontent among local firms, who felt overshadowed by the presence of foreign consultants. 
