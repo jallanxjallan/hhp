@@ -1,6 +1,6 @@
 ---
 note_id: 298
-status: 📤
+status: 📝
 title: HPP Founded
 ---
 

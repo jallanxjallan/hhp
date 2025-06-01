@@ -1,6 +1,6 @@
 ---
 note_id: 295
-status: 📤
+status: 📝
 title: Deregulation Package
 ---
 

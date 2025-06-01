@@ -1,6 +1,6 @@
 ---
 note_id: 248
-status: 📤
+status: 📝
 title: Tuti H
 ---
 

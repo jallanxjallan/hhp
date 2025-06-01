@@ -1,6 +1,6 @@
 ---
 note_id: 234
-status: 📤
+status: 📝
 title: Protecting investments
 ---
 
