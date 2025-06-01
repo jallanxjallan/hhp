@@ -1,9 +1,9 @@
 ---
 note_id: 261
-status: 📤
+status: 📝
 title: Bapepam
 ---
 
-1. HHP’s advised Bapepamin forming  (Capital Markets Rules). 
+1. Describe how HHP advised Bapepamin in forming Capital Markets Rules. 
 
-1. HHP had mjajor role in shaping Indonesian corporate scene thro
+1. Describe how HHP assisted government agences who were struggling to regulate the "Wild East" financial markets in the booming 1990s.

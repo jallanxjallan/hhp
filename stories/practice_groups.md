@@ -4,8 +4,8 @@ status: 📤
 title: Practice Groups
 ---
 
-1. Practice Groups created teams with specialized expertise.
+1. Describe the concept of Practice Groups of team with specialized expertise in the context of corporate law.
 
-2. Associates would be assigned to practice teams on rotation.
+2. Explain how in HHP new associates would be assigned to practice teams on rotation.
 
-3. Practice groups training, internal training, and global training including lawyers retreat and general soft skill (including etiquette 😊)
+   

@@ -1,11 +1,19 @@
 ---
 note_id: 255
-status: 📤
+status: 📝
 title: Law Library
 ---
 
-1. The HHP library has evolved (from brick and mortar library to bits and bytes information services. 
+1. The HHP law library was the envy of law firms in Jakarta
 
-2. From Garuda Memo (a compilation of clippings to on-line Daily Eleven and Regulation Update). 
+2. The strict librarian was the most-feared staff member for her strict loan schedule.
 
-3. Donation of library books to universities as we downsized the library area in 2012.
+3. The Garuda memo was  a compilation of clippings to on-line Daily Eleven and Regulation Update). 
+
+4. has evolved (from brick and mortar library to bits and bytes information services. 
+
+5. In the 2012 the firm migrated to online legal resources 
+
+6. The existing library was donated to university law faculties.  
+
+   

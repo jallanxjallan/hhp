@@ -1,7 +1,8 @@
 ---
 note_id: 238
-status: 📤
+status: 📝
 title: Community centered approach
 ---
 
-1. Management has a community centered approach to leadership.
+1. Describe a community centered approach to leadership in the context of an Indonesian law firm. 
+1. Explain how HHP instituted this approach consistently from its founding
