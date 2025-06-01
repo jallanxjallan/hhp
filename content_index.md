@@ -8,9 +8,11 @@ In 1989, a government [deregulation package](stories/deregulation_package.md) cr
 
 # 2. Going International 
 
-The firm  became an  member of the [Baker McKenzie global alliance](stories/alliance_with_baker_mckenzie.md). The  [Indosat](stories/indosat_ipo.md) IPO was HHP's first foray into major international finance. Baker Mckensie alliance was crucial to [keeping international standards](stories/building_an_ecosystem.md). Other firms [resented HHP cooperation](stories/foreign_firms_resentment.md) with foreign firms. HHP  moved into spacious quarters in the [landmark building](stories/landmark_building.md). 
+The firm  became an  member of the [Baker McKenzie global alliance](stories/alliance_with_baker_mckenzie.md). The  [Indosat](stories/indosat_ipo.md) IPO was HHP's first foray into major international finance.  Other firms [resented HHP cooperation](stories/foreign_firms_resentment.md) with foreign firms. Baker Mckensie alliance was crucial to [keeping international standards](stories/building_an_ecosystem.md). 
 
-🖼️[Palapa Satellite]() 🖼️ [Landmark Building]()
+⧉ HHP  moved into spacious quarters in the [landmark building](stories/landmark_building.md). 🖼️ [Landmark Building]()
+
+🖼️[Palapa Satellite]() 
 
 # 3. Growing an Institution 
 
