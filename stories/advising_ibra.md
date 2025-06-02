@@ -1,9 +1,10 @@
 ---
 note_id: 245
-status: 📝
+status: 🖊️
 title: Advising IBRA
 ---
 
-1. Give a brief background on IBRA
-1. Mention that IBRA reached out to leading experts in private banking and corporate law for guidance. 
-1. HHP took a leading role IBRA's program to prune non-viable banks and restructure the rest to form a resilient banking sector. 
+In the wake of the Asian Financial Crisis, the Indonesian Bank Restructuring Agency (IBRA) was established to restore stability and confidence in the country's financial sy
+stem. Recognizing the enormity of this task, IBRA sought the expertise of leading specialists in private banking and corporate law to steer their efforts effectively. Among
+ these experts, the prestigious law firm HHP stood out, taking a pivotal role in IBRA's program aimed at rehabilitating Indonesia's banking sector. HHP was instrumental in 
+the initiative to identify and prune non-viable banks, allowing for restructuring processes that would ultimately forge a more resilient and robust banking landscape in Indonesia.
