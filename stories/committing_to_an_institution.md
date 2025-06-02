@@ -1,9 +1,11 @@
 ---
 note_id: 171
-status: 📤
+status: 📝
 title: Committing to an Institution
 ---
 
-1. Tuti had a dream of institutionalizing the firm to carry on after the principals retired. 
+1. As HHP grew and assumed an ever-higher profile, the firm's partners knew that they must ensure clients realized that HHP was an institution, not just a collection of really good lawyers. 
 
-2. Marketed HHP as an institution, not a collection of lawyers.
+2. This was important, as the founding partners were approaching retirement age. 
+
+   

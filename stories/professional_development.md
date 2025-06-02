@@ -1,7 +1,7 @@
 ---
 note_id: 194
-status: 📤
+status: 📝
 title: Professional Development
 ---
 
-1. Professional development is very important.
+1. HHP prioritized Professional development .

@@ -1,11 +1,13 @@
 ---
 note_id: 192
-status: 📤
+status: 📝
 title: Legal Sophistication
 ---
 
-1. Legal Sophisication lesser than other markets.
+1. In a few sentences describe a scene were two Indonesian businessmen scribble numbers on a scrap of paper then smile and shake hands. 
 
-2. Much of the work is thin, basic agreements done in-house.
+2. Discuss the lack of legal sophistication in Indonesian business in the 2000s
 
-3. Not far removed from two Chinese guys scribbling numbers on a scrap of paper and shaking hands.
+3. Explain that agreements were basic, with much of the contract writing done  in-house.
+
+   
