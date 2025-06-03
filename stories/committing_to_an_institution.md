@@ -1,11 +1,10 @@
 ---
+create: 2 Jun 17:00
+model: gpt-4o-mini-2024-07-18
 note_id: 171
-status: 📝
+source: stories/committing_to_an_institution.md
+status: 🖊️
 title: Committing to an Institution
 ---
 
-1. As HHP grew and assumed an ever-higher profile, the firm's partners knew that they must ensure clients realized that HHP was an institution, not just a collection of really good lawyers. 
-
-2. This was important, as the founding partners were approaching retirement age. 
-
-   
+As HHP ascended to prominence within Jakarta's legal landscape, the partners were keenly aware of the imperative to position the firm as a robust institution rather than simply an assemblage of exceptional legal practitioners. This strategic vision was particularly crucial as the founding partners neared retirement, necessitating a shift from individual reputations to a collective legacy. By fostering a strong institutional identity, HHP aimed to ensure continuity and sustained client trust, presenting itself as a formidable entity capable of thriving beyond the stewardship of its original architects.

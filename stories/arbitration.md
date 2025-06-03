@@ -1,9 +1,10 @@
 ---
+create: 2 Jun 17:00
+model: gpt-4o-mini-2024-07-18
 note_id: 221
-status: 📝
+source: stories/arbitration.md
+status: 🖊️
 title: Arbitration
 ---
 
-1. Explain how Indonesians tend to avoid confrontation, preferring to settle differences through discussion. 
-1. HHP drew on both Indonesian cultural traditions and decades of legal experience to set up an arbitration department. 
-1. HHP quickly gained a reputation for being the most trusted and fair arbitrator in Indonesia. 
+Indonesian culture highly values harmony and consensus, often favoring amicable discussions over direct confrontation to resolve conflicts. Drawing from this cultural wisdom, coupled with their extensive legal expertise, HHP established a pioneering arbitration department that embodies these principles. The firm skillfully navigates the delicate balance between tradition and modern legal practices, quickly earning a reputation as the most trusted and fair arbitrator in the country. This approach not only aligns with the local preference for peaceful dispute resolution but also strengthens their position as a leader in Indonesia’s legal landscape.
