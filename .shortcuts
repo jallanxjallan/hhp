@@ -1,0 +1,5 @@
+alias cmrs='commit_documents stories reviewed' 
+alias cmrsd='commit_documents stories reviewed --dry-run' 
+alias cmpt='commit_documents stories prompt'
+alias cmptd='commit_documents stories prompt --dry-run'
+alias storyexport='export_notes.py - stories'

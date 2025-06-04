@@ -1,7 +1,9 @@
 ---
 note_id: 272
-status: 📤
+status: 📝
 title: KCIC
 ---
 
-1.  HHP sets up framework for High speed rail.
+1. Explain the involvement of HPP in structuring the Jakarta - Bandung High Speed Rail project. 
+
+   

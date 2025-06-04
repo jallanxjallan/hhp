@@ -1,18 +1,26 @@
 # 1. Visionary Beginnings
 
-In 1989, a government [deregulation package](stories/deregulation_package.md) created a demand for  [international-standard legal services.](stories/international_standards.md). [Tuti Hadriputranto](stories/tuti_h.md) knew from experience that Indonesian firms built around [dominant personalities](stories/dominant_personalites.md) would not satisfy foreign clients wanting to [engage legal institutions](stories/clients_want_institutions.md) for [protecting their investments](stories/protecting_investments.md).  [Tuti's vision](stories/vision_and_mission.md) of a corporate law firm greater than the sum of its parts led to the [establishment](stories/hpp_founded.md) of HHP.  The [first office](stories/first_office.md)  was little better than a shop-house floor. 
+In 1989, a government [deregulation package](stories/deregulation_package.md) created a demand for  [international-standard legal services.](stories/international_standards.md).knew from experience that Indonesian firms built around [dominant personalities](stories/dominant_personalites.md) would not satisfy foreign clients wanting to [engage legal institutions](stories/clients_want_institutions.md) for [protecting their investments](stories/protecting_investments.md).  [Tuti's vision](stories/vision_and_mission.md) of a corporate law firm greater than the sum of its parts led to the [establishment](stories/hpp_founded.md) of HHP.  The [first office](stories/first_office.md)  was little better than a shop-house floor. 
 
 ⧉ Tuti's experience at precursor firms [NLH](), [LHGS](), [HH](), and [HHD]() forged her vision for HHP. 
+
+⧉ [Tuti Hadriputranto](stories/tuti_h.md) 
+
+⧉ Tuti and Tim [advised Ministry of Finance]() pre-HHP. 
 
 🖼️ [Deregulation Headlines]() 🖼️ [First office]()
 
 # 2. Going International 
 
-The firm  became an  member of the [Baker McKenzie global alliance](stories/alliance_with_baker_mckenzie.md). The  [Indosat](stories/indosat_ipo.md) IPO was HHP's first foray into major international finance.  Other firms [resented HHP cooperation](stories/foreign_firms_resentment.md) with foreign firms. Baker Mckensie alliance was crucial to [keeping international standards](stories/building_an_ecosystem.md). 
+The  [Indosat](stories/indosat_ipo.md) IPO was HHP's first foray into major international finance.  The firm  became an  member of the [Baker McKenzie global alliance](stories/alliance_with_baker_mckenzie.md). Other firms [resented HHP cooperation](stories/foreign_firms_resentment.md) with foreign firms. Baker Mckensie alliance was crucial to [keeping international standards](stories/building_an_ecosystem.md). 
 
 ⧉ HHP  moved into spacious quarters in the [landmark building](stories/landmark_building.md). 🖼️ [Landmark Building]()
 
+[Tim Manring](stories/tim_manring.md) 
+
 🖼️[Palapa Satellite]() 
+
+
 
 # 3. Growing an Institution 
 
@@ -20,7 +28,9 @@ The [Telkom IPO](stories/telkom_ipo.md) made HHP he goto experts in  [capital ma
 
 ⧉ The [law library](stories/law_library.md) became the envy of other firms. 
 
-⧉ [Group Therapy]()
+⧉ [Group Therapy]() 
+
+⧉ [Tuti Dewi](stories/tuti_d.md)
 
 # 4. Navigating the Asian Financial Crisis 
 
@@ -30,23 +40,21 @@ Physical violence at a bankruptcy negotiation with a  [Jakarta taxi company](sto
 
 # 5. Post-Crisis Restructuring
 
-The innovative [Mandiri IPO](stories/mandiri_ipo.md) consolidated the post-Krismon banking sector as HHP advised clients to adopt [new financial instruments](stories/derivatives_cases.md) and [legal strategies](stories/legal_sophistication.md) to lessen exposure in volatile conditions. HHP expanded scope through establishing departments for  a [litigation](stories/setting_up_litigation.md) and [arbitration](stories/arbitration.md). The firm itself embarked on a process of reinvention, [formalizing institutional polices](stories/committing_to_an_institution.md) to [manage internal conflicts](stories/managing_conflicts.md) and provide clear guidelines for [mentoring a new generation](stories/professional_development.md) of legal talent. 
+The innovative [Mandiri IPO](stories/mandiri_ipo.md) upped the game for HHP.  [legal sophistication](stories/legal_sophistication.md) was low in Indonesia. HHP introduced  [new financial instruments](stories/derivatives_cases.md) to lessen client exposure in volatile conditions. To become a full-service firm HHP set up departments for  a [litigation](stories/setting_up_litigation.md) and [arbitration](stories/arbitration.md) . Internally, HHP became  [committed to an institution](stories/committing_to_an_institution.md) with policies to [manage internal conflicts](stories/managing_conflicts.md) and provide clear guidelines for [mentoring a new generation](stories/professional_development.md) of legal talent. 
 
 # 6. Changing Perspectives
 
-HHP managed the [Matahari](stories/matahari.md)  buyout, pioneering complex public and private transactions. The firm pivoted to  focus on [banking and finance](stories/banking_vs_finance.md), . A large part of this work as [dispute resolution](stories/dispute_resolution.md). The firm took on  [Large-scale infrastructure](stories/mining_and_infrastructure.md) projects like the [MRT](stories/mrt.md) and [High speed rail](stories/kcic.md) , where hundreds of millions of dollars were at stake.  In all case the [firm reputation](stories/firm_reputation.md) elicited trust. 
+In 2010, HHP pioneered complex public and private transactions with the [Matahari](stories/matahari.md)  buyout, This success  triggered a [change in perspective](stories/changing_perspectives.md) in the firm. In 2012 HHP took on the difficult  [Berlian Laju](stories/berlian_laju_tanker.md) case. HHP leveraged the  [firm reputation](stories/firm_reputation.md) to take on  [Large-scale infrastructure](stories/mining_and_infrastructure.md) projects like the [MRT](stories/mrt.md) and [High speed rail](stories/kcic.md) , 
 
 ⧉ HHP undertakes [pro-bono activities](stories/pro_bono.md).
 
-⧉ Tuti and Tim [advised Ministry of Finance]() pre-HHP. 
-
 # 7. Changing of the Guard  
 
-In 2015, HHP proved itself as the dominant player in international corporate law with the restructuring of the  [Berlian Laju](stories/berlian_laju_tanker.md).  But this high-water mark was also an inflection point for the firm. As the founding partners [neared retirement age](stories/retirement_and_succession.md), the commitment to institutionalization was being put to the test. This was the ultimate test of [client loyalty](stories/client_loyalty.md).
+But this high-water mark was also an inflection point for the firm. As the founding partners [neared retirement age](stories/retirement_and_succession.md), the commitment to institutionalization was being put to the test. This was the ultimate test of [client loyalty](stories/client_loyalty.md).
 
 # 8. An Indonesian Firm
 
-Though HHP is widely regarded as the most-international of top-tier legal profession, the firm remains steadfast to Indonesian cultural and social roots. This served the firm well in handling the controversial [Freeport](stories/freeport_divestment.md) divestment, and the promotion of [Green Sukuk](stories/green_sukuk.md) investment products, an expression of Indonesian religious and cultural values. HHP [recruits from all regions](stories/diversity_as_strength.md) of the archipelago. HHP has mastered the art of a [multi-lingual legal environment.](stories/legal_language.md)
+Though HHP is widely regarded as the most-international of top-tier legal profession, the firm remains steadfast to Indonesian cultural and social roots. This served the firm well in handling the controversial [Freeport](stories/freeport_divestment.md) divestment, and the promotion of [Green Sukuk](stories/green_sukuk.md) investment products, an expression of Indonesian religious and cultural values. HHP [recruits from all regions](stories/diversity_as_strength.md) of the archipelago. HHP has mastered the art of a [multi-lingual legal environment.](stories/legal_language.md) A large part of this work as [dispute resolution](stories/dispute_resolution.md). 
 
 ⧉ Partners artwork and batik
 

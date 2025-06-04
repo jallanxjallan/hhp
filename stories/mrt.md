@@ -1,7 +1,9 @@
 ---
 note_id: 271
-status: 📤
+status: 📝
 title: MRT
 ---
 
-1. MRT showcased HHP role in creating legal framework of major infrastructure projects
+1. Explain the involvement of HPP in structuring the Jakarta MRT project. 
+
+   
