@@ -1,0 +1,15 @@
+---
+slug: "Scenes:deregulation_package"
+themes: []
+title: "Deregulation Package"
+uid: 01bf5707b0aa
+instruction: ["[Instructions/financial_deregulation]"]
+note: ["[Notes/financial_deregulation]"]
+stage: draft
+status: "💬 Prompt"
+---
+1. “In October 1988, the Suharto government unveiled a sweeping financial reform package—commonly referred to as the ‘Pakto 88’—with the explicit goal of liberalizic the banking and financial system. Among its key provisions were:
+2. The removal of restrictions on establishing new private banks, along with the expansion of foreign bank branches and joint-venture operations
+3. The lifting of subsidized interest‑rate ceilings and credit quotas, and transition to open-market operations under Bank Indonesia’s control
+4. The imposition of prudential measures—such as single-borrower lending limits—to enhance banking stability
+5. By March 1989, a follow-up refinement package further strengthened supervision, introduced net‑open‑position controls on foreign borrowing, and permitted up to 99 percent foreign ownership in Indonesian‑listed banks

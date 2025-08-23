@@ -1,0 +1,39 @@
+{
+  "quickadd:runQuickAdd": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "N"
+    }
+  ],
+  "templater-obsidian:Templates/instruction.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Meta"
+      ],
+      "key": "I"
+    }
+  ],
+  "templater-obsidian:Templates/scene.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Meta"
+      ],
+      "key": "S"
+    }
+  ],
+  "templater-obsidian:create-new-note-from-template": [],
+  "templater-obsidian:Templates/topic.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Meta"
+      ],
+      "key": "N"
+    }
+  ]
+}

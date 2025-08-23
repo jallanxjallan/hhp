@@ -1,0 +1,19 @@
+---
+input-file: content_index.md
+output-file: hhp_review_draft.docx
+filters:
+  - format_submission.py
+  - replace_with_linked_content.lua
+  - strip_comments.lua
+  - strip_links.lua
+#  - strip_images.lua
+standalone: false
+resource-path: [/home/jeremy/.pandoc/references, /home/jeremy/Dropbox/Projects/common]
+reference-doc: submission.docx
+metadata:
+    title: HHP Book
+    components: [¶, ⧉, ⬖] 
+    mode: review
+      
+
+    

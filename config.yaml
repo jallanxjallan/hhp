@@ -1,8 +1,7 @@
----
-base_dir: /home/jeremy/Dropbox/Projects/HHP
 project: hhp
-context: book
-index_file: content_index.md
-notes_file: story_notes.ctd
-document_dir: stories
+context: '''
+This is a passage from a book outlining the history of HHP, a leading corporate law firm in Jakarta, Indonesia. The style should be consistent with a formal yet engaging nonfiction book, reflecting the prestige of HHP and the gravity of Indonesia’s legal and economic evolution. '''
+content_dir: /home/jeremy/Dropbox/Projects/HHP/ContentVault/Scenes/
+system_messages: /home/jeremy/Dropbox/Projects/HHP/ContentVault/Instructions/
+
 

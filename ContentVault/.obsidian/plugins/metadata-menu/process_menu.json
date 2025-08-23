@@ -1,0 +1,36 @@
+{
+  "field": "process",
+  "options": [
+    {
+      "value": "none",
+      "icon": "⚪",
+      "label": "Not Staged",
+      "next": ["queued"]
+    },
+    {
+      "value": "queued",
+      "icon": "☑️",
+      "label": "Queued (Ready for API)",
+      "next": ["running"]
+    },
+    {
+      "value": "running",
+      "icon": "⏳",
+      "label": "Running",
+      "next": ["results"]
+    },
+    {
+      "value": "results",
+      "icon": "📄",
+      "label": "Results Appended",
+      "next": ["finalized"]
+    },
+    {
+      "value": "finalized",
+      "icon": "📦",
+      "label": "Finalized / Archived",
+      "next": []
+    }
+  ]
+}
+ 
