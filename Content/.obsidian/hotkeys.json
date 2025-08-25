@@ -35,5 +35,14 @@
       ],
       "key": "N"
     }
+  ],
+  "editor:toggle-bullet-list": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "B"
+    }
   ]
 }

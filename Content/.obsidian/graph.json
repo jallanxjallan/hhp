@@ -1,19 +1,12 @@
 {
   "collapse-filter": false,
-  "search": "path:Scenes",
+  "search": "tag:#pakto88  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
-    {
-      "query": "path:Scenes  ",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    },
     {
       "query": "path:topics  ",
       "color": {
@@ -33,5 +26,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 0.6666666666666666,
-  "close": false
+  "close": true
 }
