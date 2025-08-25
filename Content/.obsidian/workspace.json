@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/topic.md",
+                "file": "Topics/Capital Markets.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "topic"
+              "title": "Capital Markets"
             }
           }
         ],
@@ -198,8 +198,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2b938689451d52c7",
+  "active": "5860c8ca04bcc63c",
   "lastOpenFiles": [
+    "Topics/AI Revolution.md",
+    "Templates/topic.md",
     "Scenes/Untitled.md",
     "Scenes/Test Scene.md",
     "Scenes/A Complete Unknown.md",
@@ -225,8 +227,6 @@
     "Scenes/Law in the time of COVID.md",
     "Scenes/Tuti Dewi.md",
     "Scenes/Tim Manring.md",
-    "Scenes/tuti_hadriputranto.md",
-    "Scenes/Legal Upheaval.md",
     "content_index.md.bak.20250822-152547",
     "links_updater.py",
     "stories",
