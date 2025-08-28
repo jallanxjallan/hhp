@@ -1,1 +1,0 @@
-obsidian://open?vault=Content&file=Scenes%2Findonesia_in_transformation
