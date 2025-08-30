@@ -1,10 +1,18 @@
 ---
-slug: Scenes:kkr_investment
-title: KKR Investment
-uid: bb549997c017
-last-checked: 2025-08-21
-status: 🔳 Placeholder
+uid: 2025-08-30-120023
+slug: kkr-investment
+status: 🔳
 queue: false
+tags:
+  - "#landmark-cases"
+type: scene
 ---
-#landmark-cases 
-1. Describe HHP’s role in advising on KKR’s investment in Vinhomes, a major Vietnamese property developer, which was recognized as the
+## Manuscript
+
+(Write your draft here...)
+
+---
+
+## Prompt
+
+Describe HHP’s role in advising on KKR’s investment in Vinhomes, a major Vietnamese property developer, which was recognized as the

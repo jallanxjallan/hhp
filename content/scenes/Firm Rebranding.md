@@ -1,10 +1,22 @@
 ---
-slug: Scenes:rebranding
-title: Rebranding
-uid: 5bfdc85060ea
-last-checked: 2025-08-21
-status: 💬 Prompt
+uid: 2025-08-30-082312
+slug: firm-rebranding
+status: 🔳
 queue: false
+tags:
+  - milestones
+type: scene
 ---
-1. In 2018, HHP rebranded from Hadiputranto, Hadinoto & Partners to HHP Law Firm.
-2. Removal of individual names underscored the supremacy of policies and institutional knowledge over individuals.
+
+# Firm Rebranding
+
+## Manuscript
+
+(Write your draft here...)
+
+---
+
+## Prompt
+
+In 2018, HHP rebranded from Hadiputranto, Hadinoto & Partners to HHP Law Firm.
+Removal of individual names underscored the supremacy of policies and institutional knowledge over individuals.

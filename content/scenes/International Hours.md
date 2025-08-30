@@ -1,11 +1,20 @@
 ---
-slug: Scenes:international_hours
-title: International Hours
-uid: 9f767ed94351
-status: 💬 Prompt
-last-checked: 2025-08-21
+uid: 2025-08-30-115851
+slug: international-hours
+status: 🔳
 queue: false
+tags:
+  - "#internationalization"
+  - offices
+type: scene
 ---
-#internationalization #offices 
-1. In 90s office busy 24/7 to service international clients.
-2. Tied to office because most communication done by fax.
+## Manuscript
+
+(Write your draft here...)
+
+---
+
+## Prompt
+
+In 90s office busy 24/7 to service international clients.
+Tied to office because most communication done by fax.

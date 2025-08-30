@@ -1,35 +1,42 @@
 ---
-last-checked: 2025-08-21
-model: gpt-4o-mini-2024-07-18
+uid: 2025-08-30-120650
+slug: previous-firms
+status: 🔳
 queue: false
-slug: Scenes:hhd
-status: 🤖
-title: HHD
-uid: d930759f5b3c
-updated: 2025-08-23 14:58:09
+tags: 
+  -
+type: scene
+---
+## Manuscript
+
+(Write your draft here...)
+
 ---
 
-1. 
+## Prompt
 
-1. Describe the emergence of NLH (Nico Luntungan & Partners, later Luntungan Harahap) in the 1980s under the leadership of Nico Luntungan, one of Indonesia’s early pioneers in international business law.
-2. Explain how the firm focused on foreign investment, joint ventures, and corporate and banking law, becoming one of the few Indonesian firms regularly handling multinational transactions in that era.
-3. Note that Tuti Hadiputranto was associated with the firm during this period.
+(Insert API prompt text here...)
 
 
-1. Describe how Tuti Hadiputranto was part of the original group at Nasution Lubis in the 1980s, working with Adnan Buyung Nasution and Todung Mulya Lubis at a time when the firm was among the few Indonesian practices engaged in both high-level legal reform and corporate advisory work.
-3. Explain how her transition from the public interest-oriented Nasution Lubis to the more corporate-focused HHP reflects the broader shift in Indonesian legal practice during the late Suharto period—from advocacy and reform to the rise of full-service commercial law firms with international affiliations.
+2. Describe the emergence of NLH (Nico Luntungan & Partners, later Luntungan Harahap) in the 1980s under the leadership of Nico Luntungan, one of Indonesia’s early pioneers in international business law.
+3. Explain how the firm focused on foreign investment, joint ventures, and corporate and banking law, becoming one of the few Indonesian firms regularly handling multinational transactions in that era.
+4. Note that Tuti Hadiputranto was associated with the firm during this period.
 
-#backstory 
-1. Describe how LHGS (Lubis, Hadiputranto, Gunawan & Suharto) emerged in the 1980s as a leading local firm with strengths in corporate, regulatory, and finance work.
-2. Note that before fragmenting, LHGS was a prominent player whose partners later established firms that became dominant in the market, including HHP and Lubis Santosa.
-3. Note Tuti Hadiputranto's role in the firm.
 
-#backstory 
-1. HHD (Hiswara Bunjamin & Tandjung) – 2010s
-2. Founded: Late 1990s.
-4. Affiliation: Associated with Herbert Smith Freehills.
-6. Focus: High-end M&A, banking, and dispute resolution.
-8. Profile: Elite boutique with a reputation for advising global financial institutions and multinationals.
+5. Describe how Tuti Hadiputranto was part of the original group at Nasution Lubis in the 1980s, working with Adnan Buyung Nasution and Todung Mulya Lubis at a time when the firm was among the few Indonesian practices engaged in both high-level legal reform and corporate advisory work.
+6. Explain how her transition from the public interest-oriented Nasution Lubis to the more corporate-focused HHP reflects the broader shift in Indonesian legal practice during the late Suharto period—from advocacy and reform to the rise of full-service commercial law firms with international affiliations.
+
+7. #backstory 
+8. Describe how LHGS (Lubis, Hadiputranto, Gunawan & Suharto) emerged in the 1980s as a leading local firm with strengths in corporate, regulatory, and finance work.
+9. Note that before fragmenting, LHGS was a prominent player whose partners later established firms that became dominant in the market, including HHP and Lubis Santosa.
+10. Note Tuti Hadiputranto's role in the firm.
+
+11. #backstory 
+12. HHD (Hiswara Bunjamin & Tandjung) – 2010s
+13. Founded: Late 1990s.
+14. Affiliation: Associated with Herbert Smith Freehills.
+15. Focus: High-end M&A, banking, and dispute resolution.
+16. Profile: Elite boutique with a reputation for advising global financial institutions and multinationals.
 
 ---
 ### Emergence of NLH (Nico Luntungan & Partners)

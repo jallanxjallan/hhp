@@ -1,15 +1,29 @@
 ---
-slug: Scenes:freeport_divestment
-title: Freeport Divestment
-uid: 8ff8e4731ef8
-last-checked: 2025-08-21
+uid: 2025-08-30-114318
+slug: freeport-divestment
 status: 🔳 Placeholder
 queue: false
+tags:
+  - "#landmark-cases"
+type: scene
 ---
-#landmark-cases
-1. On
-2. HHP served as
-3. The engagement required navigating complex
-4. HHP also supported Freeport in addressing
-5. The transaction was
-6. Through strategic legal structuring and advocacy, HHP helped mitigate regulatory and reputational risks, enabling the transaction to close and setting a precedent for future resource-sector divestments in Indonesia.
+
+# Freeport Divestment
+
+## Manuscript
+
+(Write your draft here...)
+
+---
+
+## Prompt
+
+(Insert API prompt text here...)
+
+
+On
+HHP served as
+The engagement required navigating complex
+HHP also supported Freeport in addressing
+The transaction was
+Through strategic legal structuring and advocacy, HHP helped mitigate regulatory and reputational risks, enabling the transaction to close and setting a precedent for future resource-sector divestments in Indonesia.

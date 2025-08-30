@@ -6,6 +6,26 @@
   "sessionStorage": "data",
   "sessions": [
     {
+      "start": "2025-08-30T01:22:31.487Z",
+      "total": 0,
+      "drafts": {
+        "indices/sceneindex.md": {
+          "total": 0,
+          "scenes": {}
+        }
+      }
+    },
+    {
+      "start": "2025-08-29T01:05:32.629Z",
+      "total": 0,
+      "drafts": {
+        "indices/sceneindex.md": {
+          "total": 0,
+          "scenes": {}
+        }
+      }
+    },
+    {
       "start": "2025-08-28T02:04:02.295Z",
       "total": 0,
       "drafts": {

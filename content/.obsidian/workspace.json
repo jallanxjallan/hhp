@@ -4,37 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "12e5b0ae245e04a9",
+        "id": "c7dc5c2bb6f5663f",
         "type": "tabs",
         "children": [
           {
-            "id": "96c112b4dbc8f61f",
+            "id": "d8f2367cd7f64393",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "instructions/Tuti Backstory.md",
+                "file": "scenes/Indonesian Art.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Tuti Backstory"
+              "title": "Indonesian Art"
             }
           },
           {
-            "id": "112433b24d5e8fe5",
+            "id": "54e8cfc92d7c8bd4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scenes/Dominant Personalites.md",
+                "file": "scenes/Vision and Mission.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Dominant Personalites"
+              "title": "Vision and Mission"
             }
           }
         ],
@@ -57,7 +57,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTime",
                 "autoReveal": true
               },
               "icon": "lucide-folder-closed",
@@ -97,8 +97,8 @@
             "state": {
               "type": "VIEW_TYPE_LONGFORM_EXPLORER",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "VIEW_TYPE_LONGFORM_EXPLORER"
+              "icon": "longform",
+              "title": "Longform"
             }
           }
         ]
@@ -208,43 +208,43 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "112433b24d5e8fe5",
+  "active": "2b938689451d52c7",
   "lastOpenFiles": [
-    "instructions/Tuti Backstory.md",
-    "scenes/Dominant Personalites.md",
-    "common/Scene Status.md",
-    "scenes/Dispute Resolution.md",
-    "scenes/BSI Merger.md",
-    "scenes/Client Loyalty.md",
-    "scenes/Firm Reputation.md",
-    "instructions/Client Relationships.md",
-    "common/Layout Status.md",
-    "common/obsidian_layout_dashboard_dataview_queries.md",
-    "scenes/Alliance  With  Baker McKenzie.md",
+    "scenes/Practice Groups.md",
+    "scenes/Vision and Mission.md",
+    "scenes/Internal Collaboration.md",
+    "scenes/Vertical Integration.md",
+    "scenes/Tuti H Retires.md",
+    "scenes/Telkom IPO.md",
+    "scenes/Symbiotic Relationship.md",
+    "scenes/Steady Safe Taxi.md",
+    "topics/Previous Firms.md",
+    "scenes/Pre HHP Tax Advisory.md",
+    "scenes/Matahari Buyout.md",
+    "scenes/Mandiri IPO.md",
+    "scenes/Legal Upheaval.md",
+    "scenes/Law in the time of COVID.md",
+    "scenes/Landmark Building.md",
+    "scenes/KKR Investment.md",
+    "scenes/International Hours.md",
+    "scenes/Institutional Dreams.md",
+    "scenes/Indosat IPO.md",
+    "scenes/Green Sukuk.md",
+    "scenes/Indosat Background.md",
+    "scenes/Indonesian Art.md",
+    "scenes/Advising IBRA.md",
+    "common/templates/scene.md",
+    "scenes/Indonesia in Transformation.md",
+    "scenes/Indihome Spinoff.md",
     "common/queries",
     "common",
-    "templates/scene.md",
-    "templates/scripts/insert_template.md",
-    "templates/topic.md",
-    "topics/Recruitment Strategies.md",
-    "instructions/Litigation Department.md",
-    "instructions/Legal Services.md",
-    "scenes/A Complete Unknown.md",
-    "topics/AI Revolution.md",
-    "scenes/Internal Collaboration.md",
     "Unconfirmed 400394.crdownload",
-    "scenes/Institutional Maturity.md",
-    "scenes/Institutional Dreams.md",
-    "scenes/Indosat Background.md",
-    "scenes/Regulating the Regulators.md",
-    "scenes/Landmark Building.md",
-    "2025-08-21.md",
-    "templates/scripts",
+    "common/templates/scripts",
     "content_index.md.bak.20250822-152547",
     "links_updater.py",
     "stories",
     "health_check.zsh",
     "Untitled.base",
-    "templates"
+    "common/templates"
   ]
 }

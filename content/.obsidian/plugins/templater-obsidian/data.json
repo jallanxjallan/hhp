@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "templates",
+  "templates_folder": "common/templates",
   "templates_pairs": [
     [
       "",
@@ -29,10 +29,9 @@
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
-    "templates/scene.md",
-    "templates/instruction.md",
-    "templates/topic.md",
-    ""
+    "common/templates/topic.md",
+    "common/templates/scene.md",
+    "common/templates/instruction.md"
   ],
   "startup_templates": [
     ""

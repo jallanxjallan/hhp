@@ -1,12 +1,23 @@
 ---
-slug: Scenes:tuti_h_retires
-uid: ace82b1e402d
-title: Tuti H Retires
-updated: 2025-08-23 15:23:48
-last-checked: 2025-08-21
+uid: 2025-08-30-121224
+slug: tuti-h-retires
+status: 🔳
 queue: false
-status: ✍️
+tags: 
+  -
+type: scene
+---
+## Manuscript
+
+(Write your draft here...)
+
 ---
 
+## Prompt
 
-1. Tuti H retired in 2016.
+(Insert API prompt text here...)
+
+
+
+
+Tuti H retired in 2016.

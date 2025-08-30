@@ -1,6 +1,6 @@
 ---
-uid: 2025-08-30-120619
-slug: pre-hhp-tax-advisory
+uid: <% tp.date.now("YYYY-MM-DD-HHmmss") %>
+slug: <% tp.file.title.toLowerCase().trim().replace(/[^a-z0-9]+/g, "-").replace(/(^|-$)/g, "") %>
 status: 🔳
 queue: false
 tags: 
@@ -16,6 +16,4 @@ type: scene
 ## Prompt
 
 (Insert API prompt text here...)
-
-
 

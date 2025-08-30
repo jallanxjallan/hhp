@@ -72,7 +72,7 @@ longform:
 [[Dispute Resolution]]
 
 # 7. Changing of the Guard
-[[Scenes/tuti_h_retire]]
+[[Tuti H Retires]]
 [[Institutional Maturity]]
 [[Firm Rebranding]]
 [[Client Loyalty]]

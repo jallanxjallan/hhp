@@ -45,7 +45,11 @@ WHERE status = "🔳" OR contains(string(status), "🔳")
 SORT file.name ASC
 ```
 
----
 
 
+```dataview
+TABLE file.link as Scene, length(file.content) as Words
+FROM "scenes"
+WHERE contains(file.content, "1.")
+```
 

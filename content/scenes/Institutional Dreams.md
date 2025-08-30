@@ -1,18 +1,24 @@
 ---
-model: gpt-4o-mini-2024-07-18
-slug: Scenes:tutis_dream
-themes:
-title: Tutis Dream
-uid: e4e773f2bb2f
-last-checked: 2025-08-21
-status: 🤖 Generated
+uid: 2025-08-30-115731
+slug: institutional-dreams
+status: 🤖
 queue: false
+tags:
+  - "#institutionization"
+type: scene
 ---
-#backstory #institutionization 
-1. Introduce Tuti Hadriputranto as a young Indonesian lawyer with a decade of experience in Jakarta’s top local firms, where she developed a reputation for diligence, discretion, and an instinctive grasp of commercial law.
-2. Explain that her legal outlook was broadened significantly through her marriage to American lawyer Tim Manring, whose corporate practice exposed her to the standards and expectations of international clients.
-3. Describe how, while living in the United States during part of their marriage, Tuti informally assisted Tim—reading drafts, discussing client strategy, and observing the culture of American law firms—giving her firsthand insight into the priorities of foreign investors.
-4. Emphasize that this informal immersion gave her a unique comparative advantage: she returned to Jakarta not only as a seasoned local practitioner but as someone who deeply understood what multinational clients needed from legal counsel in Indonesia.
+## Manuscript
+
+(Write your draft here...)
+
+---
+
+## Prompt
+
+Introduce Tuti Hadriputranto as a young Indonesian lawyer with a decade of experience in Jakarta’s top local firms, where she developed a reputation for diligence, discretion, and an instinctive grasp of commercial law.
+Explain that her legal outlook was broadened significantly through her marriage to American lawyer Tim Manring, whose corporate practice exposed her to the standards and expectations of international clients.
+Describe how, while living in the United States during part of their marriage, Tuti informally assisted Tim—reading drafts, discussing client strategy, and observing the culture of American law firms—giving her firsthand insight into the priorities of foreign investors.
+Emphasize that this informal immersion gave her a unique comparative advantage: she returned to Jakarta not only as a seasoned local practitioner but as someone who deeply understood what multinational clients needed from legal counsel in Indonesia.
 
 
 ---

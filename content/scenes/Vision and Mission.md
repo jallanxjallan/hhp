@@ -1,18 +1,26 @@
 ---
-model: gpt-4o-mini-2024-07-18
-slug: Scenes:vision_and_mission
-title: Vision and Mission
-uid: f9d7e1402143
-last-checked: 2025-08-21
-status: 🤖 Generated
+uid: 2025-08-30-121530
+slug: vision-and-mission
+status: 🔳
 queue: false
+tags:
+  - "#institutionization"
+  - backstory
+type: scene
 ---
-#backstory #institutionization 
-1. Drawing on her frequent exposure to the fragmented service and inconsistent professionalism of existing firms, Tuti Hadriputranto began to envision a new kind of Indonesian law firm—one grounded not in individual charisma but in institutional coherence and collaborative excellence.
-2. Her vision was to build a firm where knowledge would be shared, not hoarded; where professional development and internal mentorship would ensure continuity of service regardless of individual departures.
-3. From the outset, she set an ambitious benchmark: to create one of Indonesia’s top five commercial and financial law practices—an elite firm not only by volume or clientele, but by its commitment to redefining legal professionalism in the country.
-4. Hadriputranto saw lasting client relationships as central to this mission, cultivating trust that extended far beyond individual transactions and encouraging both local businesses and international investors to see her firm as a long-term partner.
-5. In challenging entrenched norms and fostering a culture of internal cohesion and external reliability, she laid the foundation for a firm designed to outlast its founders and to lead a generational shift in Indonesian corporate law.
+## Manuscript
+
+(Write your draft here...)
+
+---
+
+## Prompt
+
+Drawing on her frequent exposure to the fragmented service and inconsistent professionalism of existing firms, Tuti Hadriputranto began to envision a new kind of Indonesian law firm—one grounded not in individual charisma but in institutional coherence and collaborative excellence.
+Her vision was to build a firm where knowledge would be shared, not hoarded; where professional development and internal mentorship would ensure continuity of service regardless of individual departures.
+From the outset, she set an ambitious benchmark: to create one of Indonesia’s top five commercial and financial law practices—an elite firm not only by volume or clientele, but by its commitment to redefining legal professionalism in the country.
+Hadriputranto saw lasting client relationships as central to this mission, cultivating trust that extended far beyond individual transactions and encouraging both local businesses and international investors to see her firm as a long-term partner.
+In challenging entrenched norms and fostering a culture of internal cohesion and external reliability, she laid the foundation for a firm designed to outlast its founders and to lead a generational shift in Indonesian corporate law.
 
 
 ---

@@ -1,20 +1,31 @@
 ---
-last-checked: 2025-08-21
-model: gpt-4o-mini-2024-07-18
-queue: false
-slug: Scenes:deregulation_package
+uid: 2025-08-30-113647
+slug: deregulation-package
 status: 🤖
-title: Deregulation Package
-uid: 01bf5707b0aa
+queue: false
+tags:
+  - "#pakto88"
+type: scene
 ---
 
-#pakto88
-[[Financial Deregulation#Pakto88]]
-1. “In October 1988, the Suharto government unveiled a sweeping financial reform package with the explicit goal of liberalizing the banking and financial system. Among its key provisions were:
-2. The removal of restrictions on establishing new private banks, along with the expansion of foreign bank branches and joint-venture operations 
-3. The lifting of subsidized interest‑rate ceilings and credit quotas, and transition to open-market operations under Bank Indonesia’s control
-4. The imposition of prudential measures—such as single-borrower lending limits—to enhance banking stability
-5. By March 1989, a follow-up refinement package further strengthened supervision, introduced net‑open‑position controls on foreign borrowing, and permitted up to 99 percent foreign ownership in Indonesian‑listed banks
+# Deregulation Package
+
+## Manuscript
+
+(Write your draft here...)
+
+---
+
+## Prompt
+
+(Insert API prompt text here...)
+
+
+“In October 1988, the Suharto government unveiled a sweeping financial reform package with the explicit goal of liberalizing the banking and financial system. Among its key provisions were:
+The removal of restrictions on establishing new private banks, along with the expansion of foreign bank branches and joint-venture operations 
+The lifting of subsidized interest‑rate ceilings and credit quotas, and transition to open-market operations under Bank Indonesia’s control
+The imposition of prudential measures—such as single-borrower lending limits—to enhance banking stability
+By March 1989, a follow-up refinement package further strengthened supervision, introduced net‑open‑position controls on foreign borrowing, and permitted up to 99 percent foreign ownership in Indonesian‑listed banks
 
 ---
 During the Asian Financial Crisis of the late 1990s, HHP faced significant challenges as a result of the economic downturn that impacted Southeast Asia, particularly Indonesia. The firm’s response involved a series of internal measures and strategic adaptations tailored to navigate this turbulent period.

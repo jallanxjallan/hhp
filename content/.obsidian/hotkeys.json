@@ -44,5 +44,21 @@
       ],
       "key": "B"
     }
+  ],
+  "templater-obsidian:common/templates/scene.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "S"
+    }
+  ],
+  "templater-obsidian:common/templates/topic.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
+    }
   ]
 }
